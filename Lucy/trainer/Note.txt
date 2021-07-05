@@ -1,0 +1,1 @@
+Trained face samples are saved in this folder

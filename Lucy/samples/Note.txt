@@ -1,0 +1,2 @@
+Collected sample images are stored in this folder. 
+Make sure you delete this text file before running your code.
