@@ -1,4 +1,4 @@
-# Lucy Desktop Automation
+# Lucy AI Assistant
 
 This is a project based on ML (Machine Learning) which automates your entire pc simply by your voice commands.
 
