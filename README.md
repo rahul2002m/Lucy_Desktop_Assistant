@@ -45,7 +45,7 @@ Before running the program, set your face for verification. Follow the below ste
 Follow the below steps to run the Lucy program:   
 
 - Install all the required packages present in the requirements.txt file.
-- Enter API key of wolframalpha on line 37 and on line 375  
+- Enter API key of wolframalpha on line 31 and on line 375 
 - Run the script.py file
 - To start the project say "Wake up" or "hey Lucy"
 - Then, verify by face or password and give commands.
