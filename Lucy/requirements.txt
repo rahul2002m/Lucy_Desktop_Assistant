@@ -1,4 +1,4 @@
-Note: - Create an account in wolframalpha and use your own api key in Lucy.py line 32 and 377
+Note: - Create an account in wolframalpha and use your own api key in Lucy.py line 32 and 375
       
       - Enter the whatsapp location location in Lucy.py file on line 532
 
@@ -26,3 +26,4 @@ pip install Pillow
 pip install PyQt5
 pip install pyqt5-tools
 pip install selenium
+pip install opencv-contrib-python
