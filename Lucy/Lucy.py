@@ -715,7 +715,7 @@ def security():
         speak("Enter correct password to get access")
         try:
             def check():
-                if pwd.get() == "geethu":
+                if pwd.get() == "rahul":
                     speak("Access granted!")
                     win.destroy()
                     wishme()
